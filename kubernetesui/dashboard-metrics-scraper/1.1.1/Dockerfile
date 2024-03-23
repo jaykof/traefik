@@ -1,0 +1,2 @@
+FROM kubernetesui/dashboard-metrics-scraper:1.1.1
+MAINTAINER fk
